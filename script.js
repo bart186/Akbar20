@@ -87,7 +87,7 @@ function powerHandler(){
 		
 		function after(){
 			disableInterval();
-			showSay("Well, that was rough");
+			showSay("YEYYY INII SAAATNNYAAA");
 			complains = setInterval(shout, 3000, words);
 		}
 		setTimeout(function(){
@@ -156,7 +156,7 @@ function doorhandler(){
 	var bubble = document.querySelector(".bubble");
 
 	bubble.addEventListener('animationiteration', function(){
-		showSay('Oh, finally, Thanks!');
+		showSay('MAACII BANYAKKK CANTIKKK');
 		var synthesis = '';
 		setInterval(function(){
 			bubble.style.display = 'none';
