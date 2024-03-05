@@ -15,7 +15,7 @@ const washer = document.querySelector(".washer");
 
 // defining phrases for an owl
 const words = [
-	"Woi cantikk!",
+	"Woii cantikk!",
 	"Apa kamu melihatkui",
 	"Tolong aku klo kamu hari ini baik",
 	"Tapi klo jelek pencet aja tombolnya",
