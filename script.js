@@ -48,7 +48,7 @@ function powerHandler(){
 	
 	function after(){
 		disableInterval();
-		showSay("Oops, my head is spinning");
+		showSay("Woi cantik palaa akuu pucinggg");
 	}
 	setTimeout(function(){
 		bubble.removeEventListener('animationiteration', after);
