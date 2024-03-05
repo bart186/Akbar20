@@ -15,15 +15,15 @@ const washer = document.querySelector(".washer");
 
 // defining phrases for an owl
 const words = [
-	"Hey!",
-	"Can anybody hear me?",
-	"They forgot me here",
-	"Let me out!",
-	"I'm scared",
-	"I'm stuck here",
-	"Come on!",
-	"Somebody!",
-	"I know you're there"
+	"Woi cantikk!",
+	"Apa kamu melihatkui",
+	"Tolong aku klo kamu hari ini baik",
+	"Tapi klo jelek pencet aja tombolnya",
+	"AKU TAKUTT",
+	"KAMU NAK BANTUIN GA🥺",
+	"Ayo cantikkk!",
+	"Aku dikurung pacar kamu!",
+	"Dia nakalin aku"
 ]
 
 // init and other stuff  
