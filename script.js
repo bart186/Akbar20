@@ -166,7 +166,7 @@ var Clock = (function() {
         }, 
         press = false, 
         quiver = true, 
-        texts = ["Selamat siang sayanggg ", "Maaci buat semua apa hal hal yg usaha buat jadi yg terbaik buat akuuu", "Tetep jadi miliku seutuhnya yaa sampe kapanpun dan selamanya", "I Love You Always care About You Never End"]
+        texts = ["Selamat siang sayangg ", "Maaci buat semua apa hal hal yg usaha buat jadi yg terbaik buat akuuu", "Tetep jadi miliku seutuhnya yaa sampe kapanpun dan selamanya", "I Love You Always care About You Never End"]
          
         text = texts[0],
         textNum = 0,
