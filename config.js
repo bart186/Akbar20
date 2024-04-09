@@ -2,7 +2,7 @@
 var config = {
     // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
-        "Sayangku cintaku liat ya",
+        "Sayangku cintaku liat yaa",
         "liat waktu dibawah kita udah selama ini bersama🥺💗",
         "Ganyangka ya sayang bisa selama ini sama kamu tetep sayang sama cwo yg penuh kekurangan ini ya",
         "Makasih telah lewatin bahagia likalikunya yg gaenak dan nerima semua sikap aku yg kurangnya🥺",
