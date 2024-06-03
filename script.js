@@ -13,7 +13,7 @@ function checkChildren() {
     if (cardContainer.childElementCount === 0) {
         cardContainer.remove();
         let el = document.createElement('div');
-        el.innerHTML = '<h1> Happy Valentines Day! </h1>';
+        el.innerHTML = '<h1> Love u most My Queen Lumbaa! </h1>';
         el.classList.add('surprise-div', 'flex-row', 'center');
         container.appendChild(el);
         container.style.backgroundColor = '#f592b3';
